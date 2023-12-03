@@ -1,0 +1,115 @@
+.f1 {
+    background: rgb(64, 192, 200);
+}
+
+.float {
+    float: left;
+}
+
+.q1 {
+    border: 2px solid red !important;
+}
+
+.c1 {
+    background: url(./img/image22.webp);
+    background-size: cover;
+    background-position: center;
+    height: 70vh;
+    width: 100%;
+}
+
+.C2 {
+    background-color: blue !important;
+}
+
+.n1 {
+    background: rgba(0, 0, 0, 0.7);
+}
+
+.n1 a {
+    color: white;
+}
+
+.n1 a:hover {
+    background-color: transparent !important;
+    color: white;
+    text-decoration: underline !important;
+}
+
+.white {
+    background-color: white;
+}
+
+.h1 {
+    background: white !important;
+}
+
+.u1 {
+    background: rgb(242, 242, 242);
+    height: 100%;
+    width: 100%;
+}
+
+.u2 {
+    background: rgb(255, 255, 255);
+}
+
+.u3 {
+    margin-top: 20px !important;
+}
+
+.r1 {
+    background: rgba(255, 255, 255, 0.8) !important;
+    border-radius: 10px !important;
+    border: transparent !important;
+    box-shadow: 0px 2px 3px gray;
+}
+
+.img1 {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./img/register.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img2 {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./img/login.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Img14 {
+    background: url(./img/image14.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 70vh;
+    width: 100%;
+}
+
+.Img1 {
+    background: linear-gradient(to left, rgba(36, 36, 36, .7), rgba(36, 36, 36, .7)), url(./img/image1.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 70vh;
+    width: 100%;
+}
+
+.Img27 {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./img/image27.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
