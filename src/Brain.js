@@ -10,6 +10,9 @@ import Img26 from './img/image26.webp';
 
 import { Link } from "react-router-dom";
 
+import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+
 
 
 export default function Brain() {

@@ -6,6 +6,10 @@ import Img29 from './img/image29.webp';
 import Img30 from './img/image30.webp';
 import Img31 from './img/image31.webp';
 
+
+import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+
 export default function About() {
     return (
         <div>

@@ -7,6 +7,8 @@ import Img24 from './img/image24.webp';
 import Img25 from './img/image25.webp';
 import Img26 from './img/image26.webp';
 
+import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 import { Link } from "react-router-dom";
 

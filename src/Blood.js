@@ -4,6 +4,9 @@ import Footer from './Footer';
 import Bl from "./img/blo.jpg";
 import { Link } from "react-router-dom";
 
+import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+
 
 export default function Blood() {
     return(

@@ -6,6 +6,9 @@ import { useNavigate } from "react-router-dom";
 import { useState } from "react";
 
 
+import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+
 export default function Contact() {
     var uri = "http://localhost:7000/";
 
